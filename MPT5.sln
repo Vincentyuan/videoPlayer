@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPT5", "MPT5.vcproj", "{0C8B6C9D-3123-4D97-9451-D6E385A74171}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MPT5.vcproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8B6C9D-3123-4D97-9451-D6E385A74171}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C8B6C9D-3123-4D97-9451-D6E385A74171}.Debug|Win32.Build.0 = Debug|Win32
+		{0C8B6C9D-3123-4D97-9451-D6E385A74171}.Release|Win32.ActiveCfg = Release|Win32
+		{0C8B6C9D-3123-4D97-9451-D6E385A74171}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
